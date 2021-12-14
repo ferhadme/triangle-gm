@@ -1,4 +1,4 @@
 # triangle-gm
-Drawing triangle on Google Maps using Canvas API
+Triangle can be resized and moved along the map
 
 <img src="ss.png" />
